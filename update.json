@@ -1,5 +1,5 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "changelog": "- Improved update check system\n- Added Help menu with Documentation, About, and Update\n- About dialog now lists features\n- Bug fixes and performance improvements",
   "download_url": "https://drive.corp.amazon.com/personal/hpotlia/AKLScripts/DC-Tools/download"
 } 
