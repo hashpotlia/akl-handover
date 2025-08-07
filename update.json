@@ -1,5 +1,5 @@
 {
-  "version": "1.5.3",
-  "changelog": "- Improved update check system\n- Added Help menu with Documentation, About, and Update\n- About dialog now lists features\n- Bug fixes and performance improvements",
+  "version": "1.5.4",
+  "changelog": "🎯 AKL53 Auto-Detection & Handover Enhancement\n\n✨ NEW FEATURES:\n- Smart AKL53 oncall detection with calendar integration\n- Automatic AKL53 data collection when you're oncall\n- Enhanced handover information display\n- Grace period detection for shift transitions\n- Improved CC functionality for handovers\n\n🐛 BUG FIXES:\n- Fixed character-by-character display issue in handover section\n- Resolved AKL53 handover notes formatting\n- Enhanced calendar parsing for oncall detection\n- Improved error handling for calendar downloads\n\n⚡ IMPROVEMENTS:\n- Better timezone handling for Auckland schedules\n- Enhanced logging for AKL53 detection process\n- Optimized browser automation performance\n- Refined email generation with proper handover info\n\n🛡️ STABILITY:\n- More robust calendar data processing\n- Better handling of edge cases in oncall detection\n- Improved error recovery mechanisms",
   "download_url": "https://drive.corp.amazon.com/personal/hpotlia/AKLScripts/DC-Tools/download"
-} 
+}
