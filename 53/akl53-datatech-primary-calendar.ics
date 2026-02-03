@@ -2,839 +2,1961 @@ BEGIN:VCALENDAR
 PRODID:-//amazon oncall calendar v1.0//EN
 X-WR-CALNAME:Oncall Calendar
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251128T070000
-DTEND;TZID=Pacific/Auckland:20251128T190000
-SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260201T070000
+DTEND;TZID=Pacific/Auckland:20260201T190000
+SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164314Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142617Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251128T190000
-DTEND;TZID=Pacific/Auckland:20251129T070000
-SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2025/11/28 to 2025/11/29
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260201T190000
+DTEND;TZID=Pacific/Auckland:20260202T070000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/02/01 to 2026/02/02
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2025/11/28 to 2025/11/29\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/02/01 to 2026/02/02\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164315Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142618Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251129T070000
-DTEND;TZID=Pacific/Auckland:20251129T190000
-SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164316Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251129T190000
-DTEND;TZID=Pacific/Auckland:20251130T070000
-SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2025/11/29 to 2025/11/30
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2025/11/29 to 2025/11/30\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164317Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251130T070000
-DTEND;TZID=Pacific/Auckland:20251130T190000
-SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164318Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251130T190000
-DTEND;TZID=Pacific/Auckland:20251201T070000
-SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2025/11/30 to 2025/12/01
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2025/11/30 to 2025/12/01\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164319Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251201T070000
-DTEND;TZID=Pacific/Auckland:20251201T190000
-SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164320Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251201T190000
-DTEND;TZID=Pacific/Auckland:20251202T070000
-SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2025/12/01 to 2025/12/02
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2025/12/01 to 2025/12/02\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164321Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251202T070000
-DTEND;TZID=Pacific/Auckland:20251202T190000
-SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164322Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251202T190000
-DTEND;TZID=Pacific/Auckland:20251203T070000
-SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2025/12/02 to 2025/12/03
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2025/12/02 to 2025/12/03\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164323Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251203T070000
-DTEND;TZID=Pacific/Auckland:20251203T190000
-SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164324Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251203T190000
-DTEND;TZID=Pacific/Auckland:20251204T070000
-SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2025/12/03 to 2025/12/04
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2025/12/03 to 2025/12/04\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164325Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251204T070000
-DTEND;TZID=Pacific/Auckland:20251204T190000
-SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164326Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251204T190000
-DTEND;TZID=Pacific/Auckland:20251205T070000
-SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/04 to 2025/12/05
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/04 to 2025/12/05\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164327Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251205T070000
-DTEND;TZID=Pacific/Auckland:20251205T190000
-SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164328Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251205T190000
-DTEND;TZID=Pacific/Auckland:20251206T070000
-SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/05 to 2025/12/06
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/05 to 2025/12/06\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164329Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251206T070000
-DTEND;TZID=Pacific/Auckland:20251206T190000
-SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164330Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251206T190000
-DTEND;TZID=Pacific/Auckland:20251207T070000
-SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/06 to 2025/12/07
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/06 to 2025/12/07\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164331Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251207T070000
-DTEND;TZID=Pacific/Auckland:20251207T190000
-SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164332Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251207T190000
-DTEND;TZID=Pacific/Auckland:20251208T070000
-SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/07 to 2025/12/08
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2025/12/07 to 2025/12/08\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164333Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251208T070000
-DTEND;TZID=Pacific/Auckland:20251208T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260202T070000
+DTEND;TZID=Pacific/Auckland:20260202T190000
 SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164334Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142619Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251208T190000
-DTEND;TZID=Pacific/Auckland:20251209T070000
-SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2025/12/08 to 2025/12/09
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260202T190000
+DTEND;TZID=Pacific/Auckland:20260203T070000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/02/02 to 2026/02/03
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2025/12/08 to 2025/12/09\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/02/02 to 2026/02/03\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164335Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142620Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251209T070000
-DTEND;TZID=Pacific/Auckland:20251209T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260203T070000
+DTEND;TZID=Pacific/Auckland:20260203T190000
 SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164336Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142621Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251209T190000
-DTEND;TZID=Pacific/Auckland:20251210T070000
-SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/09 to 2025/12/10
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260203T190000
+DTEND;TZID=Pacific/Auckland:20260204T070000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/03 to 2026/02/04
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/09 to 2025/12/10\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/03 to 2026/02/04\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164337Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142622Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251210T070000
-DTEND;TZID=Pacific/Auckland:20251210T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260204T070000
+DTEND;TZID=Pacific/Auckland:20260204T190000
 SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164338Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142623Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251210T190000
-DTEND;TZID=Pacific/Auckland:20251211T070000
-SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/10 to 2025/12/11
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260204T190000
+DTEND;TZID=Pacific/Auckland:20260205T070000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/04 to 2026/02/05
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/10 to 2025/12/11\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/04 to 2026/02/05\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164339Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142624Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251211T070000
-DTEND;TZID=Pacific/Auckland:20251211T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260205T070000
+DTEND;TZID=Pacific/Auckland:20260205T190000
 SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164340Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142625Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251211T190000
-DTEND;TZID=Pacific/Auckland:20251212T070000
-SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/11 to 2025/12/12
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260205T190000
+DTEND;TZID=Pacific/Auckland:20260206T070000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/05 to 2026/02/06
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/11 to 2025/12/12\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/05 to 2026/02/06\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164341Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142626Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251212T070000
-DTEND;TZID=Pacific/Auckland:20251212T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260206T070000
+DTEND;TZID=Pacific/Auckland:20260206T190000
 SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164342Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142627Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251212T190000
-DTEND;TZID=Pacific/Auckland:20251213T070000
-SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/12 to 2025/12/13
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260206T190000
+DTEND;TZID=Pacific/Auckland:20260207T070000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/06 to 2026/02/07
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2025/12/12 to 2025/12/13\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary from 2026/02/06 to 2026/02/07\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164343Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142628Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251213T070000
-DTEND;TZID=Pacific/Auckland:20251213T190000
-SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260207T070000
+DTEND;TZID=Pacific/Auckland:20260207T190000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164344Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142629Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251213T190000
-DTEND;TZID=Pacific/Auckland:20251214T070000
-SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2025/12/13 to 2025/12/14
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260207T190000
+DTEND;TZID=Pacific/Auckland:20260208T070000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/02/07 to 2026/02/08
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2025/12/13 to 2025/12/14\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/02/07 to 2026/02/08\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164345Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142630Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251214T070000
-DTEND;TZID=Pacific/Auckland:20251214T190000
-SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260208T070000
+DTEND;TZID=Pacific/Auckland:20260208T190000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164346Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142631Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251214T190000
-DTEND;TZID=Pacific/Auckland:20251215T070000
-SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2025/12/14 to 2025/12/15
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260208T190000
+DTEND;TZID=Pacific/Auckland:20260209T070000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/02/08 to 2026/02/09
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2025/12/14 to 2025/12/15\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/02/08 to 2026/02/09\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164347Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142632Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251215T070000
-DTEND;TZID=Pacific/Auckland:20251215T190000
-SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164348Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251215T190000
-DTEND;TZID=Pacific/Auckland:20251216T070000
-SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2025/12/15 to 2025/12/16
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2025/12/15 to 2025/12/16\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164349Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251216T070000
-DTEND;TZID=Pacific/Auckland:20251216T190000
-SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164350Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251216T190000
-DTEND;TZID=Pacific/Auckland:20251217T070000
-SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2025/12/16 to 2025/12/17
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2025/12/16 to 2025/12/17\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164351Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251217T070000
-DTEND;TZID=Pacific/Auckland:20251217T190000
-SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164352Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251217T190000
-DTEND;TZID=Pacific/Auckland:20251218T070000
-SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/17 to 2025/12/18
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/17 to 2025/12/18\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164353Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251218T070000
-DTEND;TZID=Pacific/Auckland:20251218T190000
-SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164354Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251218T190000
-DTEND;TZID=Pacific/Auckland:20251219T070000
-SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/18 to 2025/12/19
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/18 to 2025/12/19\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164355Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251219T070000
-DTEND;TZID=Pacific/Auckland:20251219T190000
-SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164356Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251219T190000
-DTEND;TZID=Pacific/Auckland:20251220T070000
-SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/19 to 2025/12/20
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/19 to 2025/12/20\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164357Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251220T070000
-DTEND;TZID=Pacific/Auckland:20251220T190000
-SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164358Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251220T190000
-DTEND;TZID=Pacific/Auckland:20251221T070000
-SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/20 to 2025/12/21
-TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2025/12/20 to 2025/12/21\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-TRANSP:TRANSPARENT
-UID:20251201T164359Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251221T070000
-DTEND;TZID=Pacific/Auckland:20251221T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260209T070000
+DTEND;TZID=Pacific/Auckland:20260209T190000
 SUMMARY:[Oncall] vishenk@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] vishenk@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/vishenk
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164400Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142633Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251221T190000
-DTEND;TZID=Pacific/Auckland:20251222T070000
-SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2025/12/21 to 2025/12/22
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260209T190000
+DTEND;TZID=Pacific/Auckland:20260210T070000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/02/09 to 2026/02/10
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2025/12/21 to 2025/12/22\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/02/09 to 2026/02/10\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164401Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142634Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251222T070000
-DTEND;TZID=Pacific/Auckland:20251222T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260210T070000
+DTEND;TZID=Pacific/Auckland:20260210T190000
+SUMMARY:[Oncall] vishenk@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] vishenk@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/vishenk
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142635Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260210T190000
+DTEND;TZID=Pacific/Auckland:20260211T070000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/02/10 to 2026/02/11
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/02/10 to 2026/02/11\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142636Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260211T070000
+DTEND;TZID=Pacific/Auckland:20260211T190000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142637Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260211T190000
+DTEND;TZID=Pacific/Auckland:20260212T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/11 to 2026/02/12
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/11 to 2026/02/12\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142638Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260212T070000
+DTEND;TZID=Pacific/Auckland:20260212T190000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142639Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260212T190000
+DTEND;TZID=Pacific/Auckland:20260213T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/12 to 2026/02/13
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/12 to 2026/02/13\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142640Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260213T070000
+DTEND;TZID=Pacific/Auckland:20260213T190000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142641Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260213T190000
+DTEND;TZID=Pacific/Auckland:20260214T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/13 to 2026/02/14
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/13 to 2026/02/14\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142642Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260214T070000
+DTEND;TZID=Pacific/Auckland:20260214T190000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142643Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260214T190000
+DTEND;TZID=Pacific/Auckland:20260215T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/14 to 2026/02/15
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/02/14 to 2026/02/15\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142644Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260215T070000
+DTEND;TZID=Pacific/Auckland:20260215T190000
+SUMMARY:[Oncall] vishenk@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] vishenk@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/vishenk
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142645Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260215T190000
+DTEND;TZID=Pacific/Auckland:20260216T070000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/02/15 to 2026/02/16
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/02/15 to 2026/02/16\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142646Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260216T070000
+DTEND;TZID=Pacific/Auckland:20260216T190000
 SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164402Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142647Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251222T190000
-DTEND;TZID=Pacific/Auckland:20251223T070000
-SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2025/12/22 to 2025/12/23
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260216T190000
+DTEND;TZID=Pacific/Auckland:20260217T070000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2026/02/16 to 2026/02/17
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2025/12/22 to 2025/12/23\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2026/02/16 to 2026/02/17\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164403Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142648Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251223T070000
-DTEND;TZID=Pacific/Auckland:20251223T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260217T070000
+DTEND;TZID=Pacific/Auckland:20260217T190000
 SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164404Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142649Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251223T190000
-DTEND;TZID=Pacific/Auckland:20251224T070000
-SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2025/12/23 to 2025/12/24
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260217T190000
+DTEND;TZID=Pacific/Auckland:20260218T070000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2026/02/17 to 2026/02/18
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2025/12/23 to 2025/12/24\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2026/02/17 to 2026/02/18\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164405Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142650Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251224T070000
-DTEND;TZID=Pacific/Auckland:20251224T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260218T070000
+DTEND;TZID=Pacific/Auckland:20260218T190000
 SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164406Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142651Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251224T190000
-DTEND;TZID=Pacific/Auckland:20251225T070000
-SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2025/12/24 to 2025/12/25
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260218T190000
+DTEND;TZID=Pacific/Auckland:20260219T070000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2026/02/18 to 2026/02/19
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2025/12/24 to 2025/12/25\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary from 2026/02/18 to 2026/02/19\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164407Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142652Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251225T070000
-DTEND;TZID=Pacific/Auckland:20251225T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260219T070000
+DTEND;TZID=Pacific/Auckland:20260219T190000
 SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164408Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142653Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251225T190000
-DTEND;TZID=Pacific/Auckland:20251226T070000
-SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2025/12/25 to 2025/12/26
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260219T190000
+DTEND;TZID=Pacific/Auckland:20260220T070000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/19 to 2026/02/20
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2025/12/25 to 2025/12/26\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/19 to 2026/02/20\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164409Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142654Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251226T070000
-DTEND;TZID=Pacific/Auckland:20251226T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260220T070000
+DTEND;TZID=Pacific/Auckland:20260220T190000
 SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164410Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142655Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251226T190000
-DTEND;TZID=Pacific/Auckland:20251227T070000
-SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2025/12/26 to 2025/12/27
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260220T190000
+DTEND;TZID=Pacific/Auckland:20260221T070000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/20 to 2026/02/21
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2025/12/26 to 2025/12/27\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/20 to 2026/02/21\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164411Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142656Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251227T070000
-DTEND;TZID=Pacific/Auckland:20251227T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260221T070000
+DTEND;TZID=Pacific/Auckland:20260221T190000
 SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164412Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142657Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251227T190000
-DTEND;TZID=Pacific/Auckland:20251228T070000
-SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2025/12/27 to 2026/12/28
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260221T190000
+DTEND;TZID=Pacific/Auckland:20260222T070000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/21 to 2026/02/22
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2025/12/27 to 2026/12/28\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/21 to 2026/02/22\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164413Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142658Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251228T070000
-DTEND;TZID=Pacific/Auckland:20251228T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260222T070000
+DTEND;TZID=Pacific/Auckland:20260222T190000
 SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164414Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142659Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251228T190000
-DTEND;TZID=Pacific/Auckland:20251229T070000
-SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/12/28 to 2026/12/29
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260222T190000
+DTEND;TZID=Pacific/Auckland:20260223T070000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/22 to 2026/02/23
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/12/28 to 2026/12/29\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary from 2026/02/22 to 2026/02/23\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164415Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142700Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251229T070000
-DTEND;TZID=Pacific/Auckland:20251229T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260223T070000
+DTEND;TZID=Pacific/Auckland:20260223T190000
 SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164416Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142701Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251229T190000
-DTEND;TZID=Pacific/Auckland:20251230T070000
-SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/12/29 to 2026/12/30
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260223T190000
+DTEND;TZID=Pacific/Auckland:20260224T070000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/02/23 to 2026/02/24
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/12/29 to 2026/12/30\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/02/23 to 2026/02/24\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164417Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142702Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251230T070000
-DTEND;TZID=Pacific/Auckland:20251230T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260224T070000
+DTEND;TZID=Pacific/Auckland:20260224T190000
 SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164418Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142703Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251230T190000
-DTEND;TZID=Pacific/Auckland:20251231T070000
-SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/12/30 to 2026/12/31
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260224T190000
+DTEND;TZID=Pacific/Auckland:20260225T070000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/02/24 to 2026/02/25
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/12/30 to 2026/12/31\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/02/24 to 2026/02/25\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164419Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142704Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251231T070000
-DTEND;TZID=Pacific/Auckland:20251231T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260225T070000
+DTEND;TZID=Pacific/Auckland:20260225T190000
 SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164420Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142705Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20251231T190000
-DTEND;TZID=Pacific/Auckland:20260101T070000
-SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/12/31 to 2026/01/01
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260225T190000
+DTEND;TZID=Pacific/Auckland:20260226T070000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/02/25 to 2026/02/26
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/12/31 to 2026/01/01\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary from 2026/02/25 to 2026/02/26\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164421Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142706Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260101T070000
-DTEND;TZID=Pacific/Auckland:20260101T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260226T070000
+DTEND;TZID=Pacific/Auckland:20260226T190000
 SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164422Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142707Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260101T190000
-DTEND;TZID=Pacific/Auckland:20260102T070000
-SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/01 to 2026/01/02
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260226T190000
+DTEND;TZID=Pacific/Auckland:20260227T070000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/02/26 to 2026/02/27
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/01 to 2026/01/02\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/02/26 to 2026/02/27\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164423Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142708Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260102T070000
-DTEND;TZID=Pacific/Auckland:20260102T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260227T070000
+DTEND;TZID=Pacific/Auckland:20260227T190000
 SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164424Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142709Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260102T190000
-DTEND;TZID=Pacific/Auckland:20260103T070000
-SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/02 to 2026/01/03
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260227T190000
+DTEND;TZID=Pacific/Auckland:20260228T070000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/02/27 to 2026/02/28
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/02 to 2026/01/03\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/02/27 to 2026/02/28\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164425Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142710Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260103T070000
-DTEND;TZID=Pacific/Auckland:20260103T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260228T070000
+DTEND;TZID=Pacific/Auckland:20260228T190000
 SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164426Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142711Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260103T190000
-DTEND;TZID=Pacific/Auckland:20260104T070000
-SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/03 to 2026/01/04
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260228T190000
+DTEND;TZID=Pacific/Auckland:20260301T070000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/02/28 to 2026/03/01
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/03 to 2026/01/04\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/02/28 to 2026/03/01\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164427Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142712Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260104T070000
-DTEND;TZID=Pacific/Auckland:20260104T190000
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260301T070000
+DTEND;TZID=Pacific/Auckland:20260301T190000
 SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary
 TZID:Pacific/Auckland
 DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164428Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142713Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20251201T164314Z
-DTSTART;TZID=Pacific/Auckland:20260104T190000
-DTEND;TZID=Pacific/Auckland:20260105T070000
-SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/04 to 2026/01/05
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260301T190000
+DTEND;TZID=Pacific/Auckland:20260302T070000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/03/01 to 2026/03/02
 TZID:Pacific/Auckland
-DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/01/04 to 2026/01/05\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary from 2026/03/01 to 2026/03/02\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 TRANSP:TRANSPARENT
-UID:20251201T164429Z-uidGen@norn-interface-prod-pdx4-64009.pdx4.corp.amazon.com
+UID:20260203T142714Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260302T070000
+DTEND;TZID=Pacific/Auckland:20260302T190000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142715Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260302T190000
+DTEND;TZID=Pacific/Auckland:20260303T070000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/03/02 to 2026/03/03
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/03/02 to 2026/03/03\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142716Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260303T070000
+DTEND;TZID=Pacific/Auckland:20260303T190000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142717Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260303T190000
+DTEND;TZID=Pacific/Auckland:20260304T070000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/03 to 2026/03/04
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/03 to 2026/03/04\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142718Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260304T070000
+DTEND;TZID=Pacific/Auckland:20260304T190000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142719Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260304T190000
+DTEND;TZID=Pacific/Auckland:20260305T070000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/04 to 2026/03/05
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/04 to 2026/03/05\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142720Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260305T070000
+DTEND;TZID=Pacific/Auckland:20260305T190000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142721Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260305T190000
+DTEND;TZID=Pacific/Auckland:20260306T070000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/05 to 2026/03/06
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/05 to 2026/03/06\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142722Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260306T070000
+DTEND;TZID=Pacific/Auckland:20260306T190000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142723Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260306T190000
+DTEND;TZID=Pacific/Auckland:20260307T070000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/06 to 2026/03/07
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary from 2026/03/06 to 2026/03/07\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142724Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260307T070000
+DTEND;TZID=Pacific/Auckland:20260307T190000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142725Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260307T190000
+DTEND;TZID=Pacific/Auckland:20260308T070000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/03/07 to 2026/03/08
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/03/07 to 2026/03/08\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142726Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260308T070000
+DTEND;TZID=Pacific/Auckland:20260308T190000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142727Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260308T190000
+DTEND;TZID=Pacific/Auckland:20260309T070000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/03/08 to 2026/03/09
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/03/08 to 2026/03/09\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142728Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260309T070000
+DTEND;TZID=Pacific/Auckland:20260309T190000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142729Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260309T190000
+DTEND;TZID=Pacific/Auckland:20260310T070000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2026/03/09 to 2026/03/10
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2026/03/09 to 2026/03/10\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142730Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260310T070000
+DTEND;TZID=Pacific/Auckland:20260310T190000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142731Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260310T190000
+DTEND;TZID=Pacific/Auckland:20260311T070000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2026/03/10 to 2026/03/11
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2026/03/10 to 2026/03/11\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142732Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260311T070000
+DTEND;TZID=Pacific/Auckland:20260311T190000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142733Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260311T190000
+DTEND;TZID=Pacific/Auckland:20260312T070000
+SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/11 to 2026/03/12
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/11 to 2026/03/12\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142734Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260312T070000
+DTEND;TZID=Pacific/Auckland:20260312T190000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142735Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260312T190000
+DTEND;TZID=Pacific/Auckland:20260313T070000
+SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/12 to 2026/03/13
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/12 to 2026/03/13\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142736Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260313T070000
+DTEND;TZID=Pacific/Auckland:20260313T190000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142737Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260313T190000
+DTEND;TZID=Pacific/Auckland:20260314T070000
+SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/13 to 2026/03/14
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/13 to 2026/03/14\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142738Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260314T070000
+DTEND;TZID=Pacific/Auckland:20260314T190000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142739Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260314T190000
+DTEND;TZID=Pacific/Auckland:20260315T070000
+SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/14 to 2026/03/15
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary from 2026/03/14 to 2026/03/15\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142740Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260315T070000
+DTEND;TZID=Pacific/Auckland:20260315T190000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142741Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260315T190000
+DTEND;TZID=Pacific/Auckland:20260316T070000
+SUMMARY:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2026/03/15 to 2026/03/16
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] hpotlia@ is Oncall for akl53-datatech-primary from 2026/03/15 to 2026/03/16\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/hpotlia
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142742Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260316T070000
+DTEND;TZID=Pacific/Auckland:20260316T190000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142743Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260316T190000
+DTEND;TZID=Pacific/Auckland:20260317T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/03/16 to 2026/03/17
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/03/16 to 2026/03/17\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142744Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260317T070000
+DTEND;TZID=Pacific/Auckland:20260317T190000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142745Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260317T190000
+DTEND;TZID=Pacific/Auckland:20260318T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/03/17 to 2026/03/18
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/03/17 to 2026/03/18\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142746Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260318T070000
+DTEND;TZID=Pacific/Auckland:20260318T190000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142747Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260318T190000
+DTEND;TZID=Pacific/Auckland:20260319T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/03/18 to 2026/03/19
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/03/18 to 2026/03/19\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142748Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260319T070000
+DTEND;TZID=Pacific/Auckland:20260319T190000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142749Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260319T190000
+DTEND;TZID=Pacific/Auckland:20260320T070000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/19 to 2026/03/20
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/19 to 2026/03/20\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142750Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260320T070000
+DTEND;TZID=Pacific/Auckland:20260320T190000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142751Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260320T190000
+DTEND;TZID=Pacific/Auckland:20260321T070000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/20 to 2026/03/21
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/20 to 2026/03/21\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142752Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260321T070000
+DTEND;TZID=Pacific/Auckland:20260321T190000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142753Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260321T190000
+DTEND;TZID=Pacific/Auckland:20260322T070000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/21 to 2026/03/22
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/21 to 2026/03/22\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142754Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260322T070000
+DTEND;TZID=Pacific/Auckland:20260322T190000
+SUMMARY:[Oncall] deepennd@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deepennd@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deepennd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142755Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260322T190000
+DTEND;TZID=Pacific/Auckland:20260323T070000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/22 to 2026/03/23
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary from 2026/03/22 to 2026/03/23\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142756Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260323T070000
+DTEND;TZID=Pacific/Auckland:20260323T190000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142757Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260323T190000
+DTEND;TZID=Pacific/Auckland:20260324T070000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary from 2026/03/23 to 2026/03/24
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary from 2026/03/23 to 2026/03/24\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142758Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260324T070000
+DTEND;TZID=Pacific/Auckland:20260324T190000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142759Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260324T190000
+DTEND;TZID=Pacific/Auckland:20260325T070000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary from 2026/03/24 to 2026/03/25
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary from 2026/03/24 to 2026/03/25\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142800Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260325T070000
+DTEND;TZID=Pacific/Auckland:20260325T190000
+SUMMARY:[Oncall] santjay@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] santjay@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/santjay
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142801Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260325T190000
+DTEND;TZID=Pacific/Auckland:20260326T070000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary from 2026/03/25 to 2026/03/26
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary from 2026/03/25 to 2026/03/26\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142802Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260326T070000
+DTEND;TZID=Pacific/Auckland:20260326T190000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142803Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260326T190000
+DTEND;TZID=Pacific/Auckland:20260327T070000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/26 to 2026/03/27
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/26 to 2026/03/27\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142804Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260327T070000
+DTEND;TZID=Pacific/Auckland:20260327T190000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142805Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260327T190000
+DTEND;TZID=Pacific/Auckland:20260328T070000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/27 to 2026/03/28
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/27 to 2026/03/28\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142806Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260328T070000
+DTEND;TZID=Pacific/Auckland:20260328T190000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142807Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260328T190000
+DTEND;TZID=Pacific/Auckland:20260329T070000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/28 to 2026/03/29
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/28 to 2026/03/29\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142808Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260329T070000
+DTEND;TZID=Pacific/Auckland:20260329T190000
+SUMMARY:[Oncall] kasunp@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kasunp@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kasunp
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142809Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260329T190000
+DTEND;TZID=Pacific/Auckland:20260330T070000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/29 to 2026/03/30
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary from 2026/03/29 to 2026/03/30\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142810Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260330T070000
+DTEND;TZID=Pacific/Auckland:20260330T190000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142811Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260330T190000
+DTEND;TZID=Pacific/Auckland:20260331T070000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/03/30 to 2026/03/31
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/03/30 to 2026/03/31\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142812Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260331T070000
+DTEND;TZID=Pacific/Auckland:20260331T190000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142813Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260331T190000
+DTEND;TZID=Pacific/Auckland:20260401T070000
+SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/03/31 to 2026/04/01
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/03/31 to 2026/04/01\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142814Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260401T070000
+DTEND;TZID=Pacific/Auckland:20260401T190000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142815Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260401T190000
+DTEND;TZID=Pacific/Auckland:20260402T070000
+SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/04/01 to 2026/04/02
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/04/01 to 2026/04/02\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142816Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260402T070000
+DTEND;TZID=Pacific/Auckland:20260402T190000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142817Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260402T190000
+DTEND;TZID=Pacific/Auckland:20260403T070000
+SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/04/02 to 2026/04/03
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/04/02 to 2026/04/03\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142818Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260403T070000
+DTEND;TZID=Pacific/Auckland:20260403T190000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142819Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260403T190000
+DTEND;TZID=Pacific/Auckland:20260404T070000
+SUMMARY:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/04/03 to 2026/04/04
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] marcradd@ is Oncall for akl53-datatech-primary from 2026/04/03 to 2026/04/04\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/marcradd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142820Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260404T070000
+DTEND;TZID=Pacific/Auckland:20260404T190000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142821Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260404T190000
+DTEND;TZID=Pacific/Auckland:20260405T070000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/04/04 to 2026/04/05
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/04/04 to 2026/04/05\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142822Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260405T070000
+DTEND;TZID=Pacific/Auckland:20260405T190000
+SUMMARY:[Oncall] madhouna@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] madhouna@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/madhouna
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142823Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260405T190000
+DTEND;TZID=Pacific/Auckland:20260406T070000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/04/05 to 2026/04/06
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary from 2026/04/05 to 2026/04/06\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142824Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260406T070000
+DTEND;TZID=Pacific/Auckland:20260406T190000
+SUMMARY:[Oncall] vishenk@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] vishenk@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/vishenk
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142825Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260406T190000
+DTEND;TZID=Pacific/Auckland:20260407T070000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/04/06 to 2026/04/07
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/04/06 to 2026/04/07\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142826Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260407T070000
+DTEND;TZID=Pacific/Auckland:20260407T190000
+SUMMARY:[Oncall] vishenk@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] vishenk@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/vishenk
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142827Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260407T190000
+DTEND;TZID=Pacific/Auckland:20260408T070000
+SUMMARY:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/04/07 to 2026/04/08
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] deveshan@ is Oncall for akl53-datatech-primary from 2026/04/07 to 2026/04/08\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/deveshan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142828Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260408T070000
+DTEND;TZID=Pacific/Auckland:20260408T190000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142829Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260408T190000
+DTEND;TZID=Pacific/Auckland:20260409T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/08 to 2026/04/09
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/08 to 2026/04/09\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142830Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260409T070000
+DTEND;TZID=Pacific/Auckland:20260409T190000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142831Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260409T190000
+DTEND;TZID=Pacific/Auckland:20260410T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/09 to 2026/04/10
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/09 to 2026/04/10\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142832Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260410T070000
+DTEND;TZID=Pacific/Auckland:20260410T190000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142833Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260410T190000
+DTEND;TZID=Pacific/Auckland:20260411T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/10 to 2026/04/11
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/10 to 2026/04/11\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142834Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260411T070000
+DTEND;TZID=Pacific/Auckland:20260411T190000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142835Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260411T190000
+DTEND;TZID=Pacific/Auckland:20260412T070000
+SUMMARY:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/11 to 2026/04/12
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] amaxshar@ is Oncall for akl53-datatech-primary from 2026/04/11 to 2026/04/12\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/amaxshar
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142836Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260412T070000
+DTEND;TZID=Pacific/Auckland:20260412T190000
+SUMMARY:[Oncall] alekselu@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] alekselu@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/alekselu
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142837Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260412T190000
+DTEND;TZID=Pacific/Auckland:20260413T070000
+SUMMARY:[Oncall] vishenk@ is Oncall for akl53-datatech-primary from 2026/04/12 to 2026/04/13
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] vishenk@ is Oncall for akl53-datatech-primary from 2026/04/12 to 2026/04/13\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/vishenk
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142838Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260413T070000
+DTEND;TZID=Pacific/Auckland:20260413T190000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142839Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260413T190000
+DTEND;TZID=Pacific/Auckland:20260414T070000
+SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2026/04/13 to 2026/04/14
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2026/04/13 to 2026/04/14\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142840Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260414T070000
+DTEND;TZID=Pacific/Auckland:20260414T190000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142841Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260414T190000
+DTEND;TZID=Pacific/Auckland:20260415T070000
+SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2026/04/14 to 2026/04/15
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2026/04/14 to 2026/04/15\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142842Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260415T070000
+DTEND;TZID=Pacific/Auckland:20260415T190000
+SUMMARY:[Oncall] viveknz@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] viveknz@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/viveknz
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142843Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260415T190000
+DTEND;TZID=Pacific/Auckland:20260416T070000
+SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2026/04/15 to 2026/04/16
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary from 2026/04/15 to 2026/04/16\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142844Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260416T070000
+DTEND;TZID=Pacific/Auckland:20260416T190000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142845Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260416T190000
+DTEND;TZID=Pacific/Auckland:20260417T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/16 to 2026/04/17
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/16 to 2026/04/17\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142846Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260417T070000
+DTEND;TZID=Pacific/Auckland:20260417T190000
+SUMMARY:[Oncall] patkausq@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] patkausq@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/patkausq
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142847Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260417T190000
+DTEND;TZID=Pacific/Auckland:20260418T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/17 to 2026/04/18
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/17 to 2026/04/18\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142848Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260418T070000
+DTEND;TZID=Pacific/Auckland:20260418T190000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142849Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260418T190000
+DTEND;TZID=Pacific/Auckland:20260419T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/18 to 2026/04/19
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/18 to 2026/04/19\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142850Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260419T070000
+DTEND;TZID=Pacific/Auckland:20260419T190000
+SUMMARY:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] paulsmat@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/paulsmat
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142851Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260419T190000
+DTEND;TZID=Pacific/Auckland:20260420T070000
+SUMMARY:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/19 to 2026/04/20
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] cianarth@ is Oncall for akl53-datatech-primary from 2026/04/19 to 2026/04/20\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/cianarth
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142852Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260420T070000
+DTEND;TZID=Pacific/Auckland:20260420T190000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142853Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260420T190000
+DTEND;TZID=Pacific/Auckland:20260421T070000
+SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2026/04/20 to 2026/04/21
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2026/04/20 to 2026/04/21\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142854Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260421T070000
+DTEND;TZID=Pacific/Auckland:20260421T190000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142855Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260421T190000
+DTEND;TZID=Pacific/Auckland:20260422T070000
+SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2026/04/21 to 2026/04/22
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2026/04/21 to 2026/04/22\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142856Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260422T070000
+DTEND;TZID=Pacific/Auckland:20260422T190000
+SUMMARY:[Oncall] priyagg@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] priyagg@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/priyagg
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142857Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260422T190000
+DTEND;TZID=Pacific/Auckland:20260423T070000
+SUMMARY:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2026/04/22 to 2026/04/23
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] lungasib@ is Oncall for akl53-datatech-primary from 2026/04/22 to 2026/04/23\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/lungasib
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142858Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260423T070000
+DTEND;TZID=Pacific/Auckland:20260423T190000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142859Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260423T190000
+DTEND;TZID=Pacific/Auckland:20260424T070000
+SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/23 to 2026/04/24
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/23 to 2026/04/24\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142900Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260424T070000
+DTEND;TZID=Pacific/Auckland:20260424T190000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142901Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260424T190000
+DTEND;TZID=Pacific/Auckland:20260425T070000
+SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/24 to 2026/04/25
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/24 to 2026/04/25\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142902Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260425T070000
+DTEND;TZID=Pacific/Auckland:20260425T190000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142903Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260425T190000
+DTEND;TZID=Pacific/Auckland:20260426T070000
+SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/25 to 2026/04/26
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/25 to 2026/04/26\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142904Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260426T070000
+DTEND;TZID=Pacific/Auckland:20260426T190000
+SUMMARY:[Oncall] uvaan@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] uvaan@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/uvaan
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142905Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260426T190000
+DTEND;TZID=Pacific/Auckland:20260427T070000
+SUMMARY:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/26 to 2026/04/27
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] junyangx@ is Oncall for akl53-datatech-primary from 2026/04/26 to 2026/04/27\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/junyangx
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142906Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260427T070000
+DTEND;TZID=Pacific/Auckland:20260427T190000
+SUMMARY:[Oncall] spiesb@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] spiesb@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/spiesb
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142907Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260427T190000
+DTEND;TZID=Pacific/Auckland:20260428T070000
+SUMMARY:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/04/27 to 2026/04/28
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] albigl@ is Oncall for akl53-datatech-primary from 2026/04/27 to 2026/04/28\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/albigl
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142908Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260428T070000
+DTEND;TZID=Pacific/Auckland:20260428T190000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142909Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260428T190000
+DTEND;TZID=Pacific/Auckland:20260429T070000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/04/28 to 2026/04/29
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/04/28 to 2026/04/29\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142910Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260429T070000
+DTEND;TZID=Pacific/Auckland:20260429T190000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142911Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260429T190000
+DTEND;TZID=Pacific/Auckland:20260430T070000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/04/29 to 2026/04/30
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/04/29 to 2026/04/30\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142912Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260430T070000
+DTEND;TZID=Pacific/Auckland:20260430T190000
+SUMMARY:[Oncall] kittyli@ is Oncall for akl53-datatech-primary
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] kittyli@ is Oncall for akl53-datatech-primary\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/kittyli
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142913Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20260203T142617Z
+DTSTART;TZID=Pacific/Auckland:20260430T190000
+DTEND;TZID=Pacific/Auckland:20260501T070000
+SUMMARY:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/04/30 to 2026/05/01
+TZID:Pacific/Auckland
+DESCRIPTION:[Oncall] ryanms@ is Oncall for akl53-datatech-primary from 2026/04/30 to 2026/05/01\nhttps://oncall.corp.amazon.com/#/view/akl53-datatech-primary\nhttps://phonetool.amazon.com/users/ryanms
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+TRANSP:TRANSPARENT
+UID:20260203T142914Z-uidGen@norn-interface-prod-pdx1-60001.pdx1.corp.amazon.com
 END:VEVENT
 END:VCALENDAR
